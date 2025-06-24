@@ -2,6 +2,15 @@
 
 A desktop blackjack game built with Next.js and Tauri, featuring a modern UI and full game logic.
 
+![Next.js](https://img.shields.io/badge/Next.js-15.3.4-black?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-19.0.0-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat&logo=typescript&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-1.5.4-FFC131?style=flat&logo=tauri&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-1.77.2-000000?style=flat&logo=rust&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+Game logic based on [the Node.JS version](https://github.com/krisfur/blackjack-nodejs) made before.
+
 ## 🎮 Features
 
 - **Complete Blackjack Game**: Full implementation of blackjack rules including hitting, standing, and dealer AI
@@ -172,7 +181,7 @@ Desktop app settings are in `src-tauri/tauri.conf.json`:
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the MIT License.
 
 ## 🤝 Contributing
 
@@ -181,16 +190,6 @@ This project is open source and available under the [MIT License](LICENSE).
 3. Make your changes
 4. Test thoroughly
 5. Submit a pull request
-
-## 🎯 Future Enhancements
-
-- [ ] Sound effects
-- [ ] Multiple deck support
-- [ ] Betting system
-- [ ] Statistics tracking
-- [ ] Multiplayer support
-- [ ] Custom themes
-- [ ] Save/load game state
 
 ---
 
