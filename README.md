@@ -11,6 +11,8 @@ A desktop blackjack game built with Next.js and Tauri, featuring a modern UI and
 
 Game logic based on [the Node.JS version](https://github.com/krisfur/blackjack-nodejs) made before.
 
+![screenshot](screenshot.png)
+
 ## 🎮 Features
 
 - **Complete Blackjack Game**: Full implementation of blackjack rules including hitting, standing, and dealer AI
@@ -19,7 +21,7 @@ Game logic based on [the Node.JS version](https://github.com/krisfur/blackjack-n
 - **Visual Feedback**: Card animations and winner indicators
 - **Desktop Native**: Runs as a native desktop application using Tauri
 
-## 🛠️ Technology Stack
+## 🛠️ Tech Stack
 
 - **Frontend**: Next.js 15 with React 19 and TypeScript
 - **Styling**: Tailwind CSS
